@@ -2,7 +2,6 @@
 const songs = [
     { title: "Песня 1", file: "music/test.mp3" },
     { title: "Летний вайб", file: "music/test2.mp3" },
-    { title: "Моя любовь", file: "songs/moya-lyubov.mp3" },
     // Добавляй сюда свои песни вот так:
     // { title: "Название", file: "songs/имя-файла.mp3" },
   ];
